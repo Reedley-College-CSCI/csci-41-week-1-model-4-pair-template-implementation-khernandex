@@ -1,5 +1,5 @@
 // Pair.h
-// Your Names
+// Karina Hernandez, Harman Nagra, Alejandro Yepez
 #ifndef PAIR_H
 #define PAIR_H
 
