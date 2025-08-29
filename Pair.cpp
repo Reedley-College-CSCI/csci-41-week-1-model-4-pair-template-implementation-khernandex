@@ -6,8 +6,8 @@
 
 template <typename T>
 Pair <T>::Pair(T f, T s) {
-	f = first;
-	s = second;
+	first = f;
+	second = s;
 }
 
 template <typename T>
