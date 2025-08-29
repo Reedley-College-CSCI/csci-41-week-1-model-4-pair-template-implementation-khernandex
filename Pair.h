@@ -1,5 +1,6 @@
 // Pair.h
 // Karina Hernandez, Harman Nagra, Alejandro Yepez
+
 #ifndef PAIR_H
 #define PAIR_H
 
@@ -8,7 +9,7 @@ class Pair {
 private:
     T first;
     T second;
-public:
+public:                     // Declaring class member functions
     Pair(T f, T s);
     T getFirst() const;
     T getSecond() const;
